@@ -1,0 +1,350 @@
+[1] E. Başar, Brain Function and Oscillations: Integrative Brain Function.
+Neurophysiology and Cognitive Processes (Springer series in synerget-
+ics). Berlin, Germany: Springer-Verlag, 1999.
+
+[2] G. Dornhege, J. d. R. Millán, T. Hinterberger, D. McFarland, and
+K.-R. Móller, Towards Brain-Computing Interfacing. Cambridge, MA,
+USA: MIT Press, 2007.
+
+[3] J. R. Wolpaw and E. W. Wolpaw, Event-Related Brain Potentials:
+Methods, Theory, and Applications. Hoboken, NJ, USA: Wiley, 2000.
+
+[4] J. M. Carmena, “Becoming bionic,” IEEE Spectr., vol. 49, no. 3,
+pp. 24–29, Mar. 2012.
+
+[5] H. H. Stassen, “Computerized recognition of persons by EEG spectral
+patterns,” Electroencephalogr. Clin. Neurophysiol., vol. 49, nos. 1–2,
+pp. 190–194, 1980.
+
+[6] P. Campisi, D. La Rocca, and G. Scarano, “EEG for automatic person
+recognition,” IEEE Comput., vol. 45, no. 7, pp. 87–89, Jul. 2012.
+
+[7] J. Berkhout and D. O. Walter, “Temporal stability and individual differ-
+ences in the human EEG: An analysis of variance of spectral values,”
+IEEE Trans. Biomed. Eng., vol. 15, no. 3, pp. 165–168, Jul. 1968.
+
+[8] H. Van Dis, M. Corner, R. Dapper, G. Hanewald, and H. Kok, “Indi-
+vidual differences in the human electroencephalogram during quiet
+wakefulness,” Electroencephalogr. Clin. Neurophysiol., vol. 47, no. 1,
+pp. 87–94, 1979.
+
+[9] J. Malmivuo and R. Plonsey, Bioelectromagnetism: Principles and Appli-
+cations of Bioelectric and Biomagnetic Fields. Oxford, U.K.: Oxford
+Univ. Press, 1995.
+
+[10] G. Lairy, Handbook of Electroencephalography and Clinical Neurophys-
+iology, vol. 6. New York, NY, USA: Elsevier, 1976.
+
+[11] E. Niedermeyer and F. Da Silva, Electroencephalography: Basic Prin-
+ciples, Clinical Applications, and Related Fields (Doody’s all reviewed
+collection). New York, NY, USA: Lippincott Williams & Wilkins, 2005.
+
+[12] E. Başar, C. Başar-Eroglu, S. Karakaş, and M. Schürmann, “Gamma,
+alpha, delta, and theta oscillations govern cognitive processes,” Int.
+J. Psychophysiol., vol. 39, nos. 2–3, pp. 241–248, 2001.
+
+[13] T. Harmony et al., “EEG delta activity: An indicator of attention to
+internal processing during performance of mental tasks,” Int. J. Psy-
+chophysiol., vol. 24, no. 12, pp. 161–171, 1996.
+
+[14] W. Klimesch, “Theta band power in the human scalp EEG and
+the encoding of new information,” Neuroreport, vol. 7, no. 7,
+pp. 1235–1240, 1996.
+
+[15] R. Barry, A. Clarke, S. Johnstone, C. Magee, and J. Rushby, “EEG
+differences between eyes-closed and eyes-open resting conditions,” Clin.
+Neurophysiol., vol. 118, no. 12, pp. 2765–2773, 2007.
+
+[16] W. Klimesch, M. Doppelmayr, T. Pachinger, and H. Russegger, “Event-
+related desynchronization in the alpha band and the processing of
+semantic information,” Cognit. Brain Res., vol. 6, no. 2, pp. 83–94,
+1997.
+
+[17] K. J. Meador, P. G. Ray, J. R. Echauz, D. W. Loring, and
+G. J. Vachtsevanos, “Gamma coherence and conscious perception,”
+Neurology, vol. 59, no. 6, pp. 847–854, 2002.
+
+[18] F. Varela, J.-P. Lachaux, E. Rodriguez, and J. Martinerie, “The brainweb:
+Phase synchronization and large-scale integration,” Nat. Rev. Neurosci.,
+vol. 2, no. 4, pp. 229–239, Apr. 2001.
+
+[19] A. Delorme and S. Makeig, “Eeglab: An open source toolbox for
+analysis of single-trial eeg dynamics including independent component
+analysis,” J. Neurosci. Methods, vol. 134, no. 1, pp. 9–21, 2004.
+
+[20] E. Donchin, W. Ritter, and W. C. Mccallum, “Cognitive psy-
+chophysiology: The endogenous components of ERP,” in Event-related
+Brain Potentials in Man. New York, NY, USA: Academic, 1978,
+pp. 349–411.
+
+[21] S. L. Bressler, “Event-related potentials of the cerebral cortex,” in Elec-
+trophysiological Recording Tech., vol. 54, R. Neuromethods, P. Vertes,
+and R. W. Stackman, Eds., New York, NY, USA: Humana Press, 2011,
+pp. 169–190.
+
+[22] S. J. Segalowitz and K. L. Barnes, “The reliability of ERP components
+in the auditory oddball paradigm,” Psychophysiology, vol. 30, no. 5,
+pp. 451–459, 1993.
+
+[23] N. Birbaumer, “Slow cortical potentials: Plasticity, operant control, and
+behavioral effects,” Neuroscientist, vol. 5, no. 2, pp. 74–78, Mar. 1999.
+
+[24] Y. Boytsova and S. Danko, “EEG differences between resting states
+with eyes open and closed in darkness,” Human Physiol., vol. 36, no. 3,
+pp. 367–369, 2010.
+
+[25] D. Gusnard and M. Raichle, “Searching for a baseline: Functional
+imaging and the resting human brain,” Nature Rev. Neurosci., vol. 2,
+no. 10, pp. 685–694, 2001.
+
+[26] T. Fernández et al., “EEG activation patterns during the performance of
+tasks involving different components of mental calculation,” Electroen-
+cephalogr. Clin. Neurophysiol., vol. 94, no. 3, pp. 175–182, 1995.
+
+[27] J. Polich, “Neuropsychology of P300,” The Oxford Handbook of Event-
+Related Potential Components. Oxford, U.K.: Oxford Univ. Press, 2008.
+
+[28] J. Polich, “Updating P300: An integrative theory of p3a and p3b.” Clin.
+Neurophysiol., vol. 118, no. 10, pp. 2128–2148, 2007.
+
+[29] J. V. Odom et al., “Visual evoked potentials standard (2004)” Documenta
+Ophthalmol. Adv. Ophthalmol., vol. 108, no. 2, pp. 115–123, 2004.
+
+[30] M.-Z. Yu and B. Brown, “Variation of topographic visually evoked
+potentials across the visual field,” Ophthalmic Physiol. Opt., vol. 17,
+no. 1, pp. 25–31, 1997.
+
+[31] W. N. Kuhlman, “Functional topography of the human mu rhythm,”
+Electroencephalogr. Clin. Neurophysiol., vol. 44, no. 1, pp. 83–93, 1978.
+
+[32] D. J. McFarland, L. A. Miner, T. M. Vaughan, and J. R. Wolpaw,
+“Mu and beta rhythm topographies during motor imagery and actual
+movements.” Brain Topograph., vol. 12, no. 3, pp. 177–186, 2000.
+
+[33] C. S. DaSalla, H. Kambara, M. Sato, and Y. Koike, “Single-trial
+classification of vowel speech imagery using common spatial patterns,”
+Neural Netw., vol. 22, no. 9, pp. 1334–1339, 2009.
+
+[34] T. Hinterberger et al., “Brain-computer communication and slow cortical
+potentials,” IEEE Trans. Biomed. Eng., vol. 51, no. 6, pp. 1011–1018,
+Jun. 2004.
+
+[35] E. Niedermeyer, “9. The normal EEG of the waking adult,” Electroen-
+cephalography: Basic Principles, Clinical Applications, and Related
+Fields, New York, NY, USA: Lippincott Williams, 2005, p. 167.
+
+[36] D. J. Krusienski et al., “A comparison of classification techniques for
+the P300 speller,” J. Neural Eng., vol. 3, no. 4, p. 299, 2006.
+
+[37] S. P. Kelly, E. C. Lalor, C. Finucane, G. McDarby, and R. B. Reilly,
+“Visual spatial attention control in an independent brain-computer
+interface,” IEEE Trans. Biomed. Eng., vol. 52, no. 9, pp. 1588–1596,
+Sep. 2005.
+
+[38] M. Tangermann, G. Dornhege, M. Krauledat, G. Curio, and B. Blankertz,
+“Machine learning for real-time single-trial EEG-analysis: From brain-
+computer interfacing to mental state monitoring,” J. Neurosci. Methods,
+vol. 167, no. 1, pp. 82–90, 2008.
+
+[39] J. Klonovs, C. Petersen, H. Olesen, and A. Hammershoj, “ID proof on
+the go: Development of a mobile EEG-based biometric authentication
+system,” IEEE Veh. Technol. Mag., vol. 8, no. 1, pp. 81–89, Mar. 2013.
+
+[40] C. E. Henry, “Electroencephalographic individual differences and their
+constancy: I. During sleep,” J. Experim. Psychol., vol. 29, no. 2,
+pp. 117–132, 1941.
+
+[41] C. E. Henry, “Electroencephalographic individual differences and their
+constancy: II. During waking,” J. Experim. Psychol., vol. 29, no. 2,
+pp. 236–247, 1941.
+
+[42] M. Kennard and A. Schwartzman, “A longitudinal study of elec-
+troencephalographic frequency patterns in mental hospital patients and
+normal controls,” Electroencephalogr. Clin. Neurophysiol., vol. 9, no. 2,
+pp. 263–274, 1957.
+
+[43] T. Gasser, P. Bacher, and H. Steinberg, “Test-retest reliability of spec-
+tral parameters of the EEG,” Electroencephalogr. Clin. Neurophysiol.,
+vol. 60, no. 4, pp. 312–319, 1985.
+
+[44] M. C. Salinsky, B. S. Oken, and L. Morehead “Test-retest reliability
+in EEG frequency analysis,” Electroencephalogr. Clin. Neurophysiol.,
+vol. 79, no. 5, pp. 382–392, 1991.
+
+[45] A. Kondacs and M. Szabó, “Long-term intra-individual variability of
+the background EEG in normals,” Clin. Neurophysiol., vol. 110, no. 10,
+pp. 1708–1716, 1999.
+
+[46] M. Näpflin, M. Wildi, and J. Sarnthein “Test–retest reliability of resting
+EEG spectra validates a statistical signature of persons,” Clin. Neuro-
+physiol., vol. 118, no. 11, pp. 2519–2524, 2007.
+
+[47] L. McEvoy, M. Smith, and A. Gevins, “Test–retest reliability of cognitive
+EEG,” Clin. Neurophysiol., vol. 111, no. 3, pp. 457–463, 2000.
+
+[48] M. Näpflin, M. Wildi, and J. Sarnthein, “Test-retest reliability of
+EEG spectra during a working memory task,” Neuroimage, vol. 43,
+no. 1, pp. 687–693, 2008.
+
+[49] K. Brigham and B. V. Kumar, “Subject identification from electroen-
+cephalogram (EEG) signals during imagined speech,” in Proc. IEEE
+4th Int. Conf. BTAS, Sep. 2010, pp. 1–8.
+
+[50] D. La Rocca, P. Campisi, and G. Scarano, “On the repeatability of
+EEG features in a biometric recognition framework using a resting state
+protocol,” in Proc. BIOSIGNALS, 2013, pp. 20–2.
+
+[51] D. Aeschbach, J. R. Matthews, T. T. Postolache, M. A. Jackson,
+H. A. Giesen, and T. A. Wehr, “Two circadian rhythms in the
+human electroencephalogram during wakefulness,” Amer. J. Physiol.
+Reg., Integr. Comparative Physiol., vol. 277, no. 6, pp. R1771–R1779,
+1999.
+
+[52] C. Cajochen, J. Wyatt, C. Czeisler, and D. Dijk, “Separation of circadian
+and wake duration-dependent modulation of EEG activation during
+wakefulness,” Neuroscience, vol. 114, no. 4, pp. 1047–1060, 2002.
+
+[53] C. K. Peterson and E. Harmon-Jones, “Circadian and seasonal variability
+of resting frontal EEG asymmetry,” Biol. Psychol., vol. 80, no. 3,
+pp. 315–320, 2009.
+
+[54] K. Revett, “Cognitive biometrics: A novel approach to person authenti-
+cation,” Int. J. Cognit. Biometrics, vol. 1, no. 1, pp. 1–9, 2012.
+
+[55] F. Vogel, “The genetic basis of the normal human electroencephalogram
+(EEG),” Humangenetik, vol. 10, no. 2, pp. 91–114, 1970.
+
+[56] L. Johnson and G. Ulett, “Quantitative study of pattern and stability
+of resting electroencephalographic activity in a young adult group,”
+Electroencephalogr. Clin. Neurophysiol., vol. 11, no. 2, pp. 233–249,
+1959.
+
+[57] J. Lynch, D. Paskewitz, and M. Orne, “Intersession stability of
+human alpha rhythm densities,” Electroencephalogr. Clin. Neurophysiol.,
+vol. 36, no. 5, pp. 538–540, 1974.
+
+[58] F. Vogel and E. Schalt, “The electroencephalogram (EEG) as a research
+tool in human behavior genetics: Psychological examinations in healthy
+males with various inherited EEG variants,” Human Genetics, vol. 47, 
+no. 1, pp. 81-111, 1979.
+
+[59] J. Varner, R. Potter, and J. Rohrbaugh, “A procedure for automatic
+classification of EEG genetic variants,” in Proc. IEEE Eng. Med. Biol.
+Soc. Ann. Int. Conf., vol. 13. Nov. 1991, pp. 451–452.
+
+[60] C. E. van Beijsterveldt, P. C. Molenaar, E. J. de Geus, and
+D. I. Boomsma, “Heritability of human brain functioning as assessed
+by electroencephalography (EEG),” Amer. J. Human Genetics, vol. 58,
+no. 3, pp. 562–573, 1996.
+
+[61] B. P. Zietsch, J. L. Hansen, N. K. Hansell, G. M. Geffen, N. G. Martin,
+and M. J. Wright, “Common and specific genetic influences on EEG
+power bands delta, theta, alpha, and beta,” Biol. Psychol., vol. 75, no. 2,
+pp. 154–164, 2007.
+
+[62] M. J. Wright, N. K. Hansell, G. M. Geffen, L. B. Geffen, G. A. Smith,
+and N. G. Martin, “Genetic influence on the variance in P3 amplitude
+and latency,” Behavior Genet., vol. 31, no. 6, pp. 555–565, 2001.
+
+[63] A. P. Anokhin, G. van Baal, C. van Beijsterveldt, E. de Geus, J. Grant,
+and D. Boomsma, “Genetic correlation between the P300 event-related
+brain potential and the EEG power spectrum,” Behavior Genet., vol. 31,
+no. 6, pp. 545–554, 2001.
+
+[64] G. Stenberg, “Personality and the EEG: Arousal and emotional arous-
+ability,” Pers. Individual Differences, vol. 13, no. 10, pp. 1097–1113,
+1992.
+
+[65] J. A. Gray, “The psychophysiological basis of introversion-extraversion:
+A modification of Eysenck’s theory,” in The Biological Bases
+of Individual Behavior. San Diego, CA, USA: Academic, 1972,
+pp. 182–205.
+
+[66] R. J. Davidson, “Anterior cerebral asymmetry and the nature of emo-
+tion,” Brain Cognit., vol. 20, no. 1, pp. 125–151, 1992.
+
+[67] S. S. Sobotka, R. J. Davidson, and J. A. Senulis, “Anterior brain
+electrical asymmetries in response to reward and punishment,” Elec-
+troencephalogr. Clin. Neurophysiol., vol. 83, no. 4, pp. 236–247,
+1992.
+
+[68] A. J. Tomarken, R. J. Davidson, R. E. Wheeler, and L. Kinney,
+“Psychometric properties of resting anterior EEG asymmetry: Temporal
+stability and internal consistency,” Psychophysiology, vol. 29, no. 5,
+pp. 576–592, 1992.
+
+[69] G. G. Knyazev, “Antero-posterior EEG spectral power gradient as a
+correlate of extraversion and behavioral inhibition,” Open Neuroimag.
+J., vol. 4, pp. 114–120, Sep. 2010.
+
+[70] D. Lehmann, H. Ozaki, and I. Pal, “EEG alpha map series: Brain micro-
+states by space-oriented adaptive segmentation,” Electroencephalogr.
+Clin. Neurophysiol., vol. 67, no. 3, pp. 271–288, 1987.
+
+[71] M. Poulos, M. Rangoussi, and N. Alexandris, “Neural network based
+person identification using EEG features,” in Proc. IEEE Int. Conf.
+Acoust., Speech, Signal Process., vol. 2. Mar. 1999, pp. 1117–1120.
+
+[72] M. Poulos, M. Rangoussi, V. Chrissikopoulos, and A. Evangelou,
+“Person identification based on parametric processing of the EEG,” in
+Proc. 6th IEEE Int. Conf. Electr., Circuit Syst., Sept. 1999, pp. 283–286.
+
+[73] A. Riera, A. Soria-Frisch, M. Caparrini, C. Grau, and G. Ruffini,
+“Unobtrusive biometric system based on electroencephalogram analy-
+sis,” EURASIP J. Adv. Signal Process, vol. 2008, 2008.
+
+[74] F. Su, H. Zhou, Z. Feng, and J. Ma, “A biometric-based covert warning
+system using EEG,” in Proc. 5th IAPR Int. Conf. Biometrics ICB, 2012,
+pp. 342–347.
+
+[75] P. Campisi et al., “Brain waves based user recognition using the ‘eyes
+closed resting conditions’ protocol,” in Proc. IEEE Int. WIFS, Nov. 2011,
+pp. 1–6,
+
+[76] D. La Rocca, P. Campisi, and G. Scarano, “EEG biometrics for indi-
+vidual recognition in resting state with closed eyes,” in Proc. Int. Conf.
+BIOSIG, 2012, pp. 1–12.
+
+[77] M. Abdullah, K. Subari, J. Loong, and N. Ahmad, “Analysis of effective
+channel placement for an EEG-based biometric system,” in Proc. IEEE
+EMBS Conf. Biomed. Eng. Sci., Dec. 2010, pp. 303–306.
+
+[78] R. Paranjape, J. Mahovsky, L. Benedicenti, and Z. Koles, “The elec-
+troencephalogram as a biometric,” in Proc. Can. Conf. Electr. Comput.
+EngComput., 2001, pp. 1363–1366.
+
+[79] K. Das, S. Zhang, B. Giesbrecht, and M. P. Eckstein, “Using rapid
+visually evoked EEG activity for person identification,” in Proc. Annu.
+Int. Conf. IEEE Eng. Med. Biol. Soc., Sep. 2009, pp. 2490–2493.
+
+[80] R. Palaniappan and D. Mandic, “Biometrics from brain electrical activ-
+ity: A machine learning approach,” IEEE Trans. Pattern Anal. Mach.
+Intell., vol. 29, no. 4, pp. 738–742, Apr. 2007.
+
+[81] R. Palaniappan, “Method of identifying individuals using vep signals
+and neural network,” IEE Proc. Sci., Meas. Technol., vol. 151, no. 1,
+pp. 16-20, Jan. 2004.
+
+[82] R. Palaniappan, “Two-stage biometric authentication method using
+thought activity brain waves,” Int. J. Neural Syst., vol. 18, no.pp. 59–66, 2008.
+
+[83] S. Marcel and J. D. R. Millan, “Person authentication using brainwaves
+(EEG) and maximum a posteriori model adaptation,” IEEE Trans.
+Pattern Anal. Mach. Intell., vol. 29, no. 4, pp. 743–748, Apr. 2006.
+
+[84] C. He and Z. J. Wang, “An independent component analysis (ICA) based
+approach for EEG person authentication,” in Proc. 3rd ICBBE, 2010,
+pp. 1–10.
+
+[85] T. O’Donoghue et al., “A NOS1 variant implicated in cognitive perfor-
+mance influences evoked neural responses during a high density EEG
+study of early visual perception,” Human Brain Mapping, vol. 33, no.pp. 1202–1211, 2012.
+
+[86] M. Fernandes et al., “Wearable brain cap with contactless electroen-
+cephalogram measurement for brain-computer interface applications,”
+in Proc. 4th Int. IEEE EMBS Conf. Neural Eng., Apr./May 2009,
+pp. 387–390.
+
+[87] S. Debener, F. Minow, R. Emkes, K. Gandras, and M. de Vos,
+“How about taking a low-cost, small, and wireless EEG for a walk?”
+Psychophysiology, vol. 49, no. 11, pp. 1617–1621, 2012.
